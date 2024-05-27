@@ -1,4 +1,3 @@
-```markdown
 # Llama3 ONNX Inference with Rust
 
 This project demonstrates how to convert a Llama3 model to ONNX format using Python and run inference using Rust. The steps include converting the model and tokenizer to ONNX and using Rust to interact with the model in the terminal.
