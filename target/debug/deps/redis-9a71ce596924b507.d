@@ -1,0 +1,13 @@
+/home/adesoji/llama3_inference/target/debug/deps/libredis-9a71ce596924b507.rmeta: /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/lib.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/macros.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/parser.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/client.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/connection.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/types.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/script.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/cmd.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/commands.rs
+
+/home/adesoji/llama3_inference/target/debug/deps/redis-9a71ce596924b507.d: /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/lib.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/macros.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/parser.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/client.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/connection.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/types.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/script.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/cmd.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/commands.rs
+
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/lib.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/macros.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/parser.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/client.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/connection.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/types.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/script.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/cmd.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/redis-0.5.4/src/commands.rs:

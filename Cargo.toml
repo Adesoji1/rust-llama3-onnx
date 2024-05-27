@@ -1,0 +1,16 @@
+[package]
+name = "llama3_inference"
+version = "0.1.0"
+edition = "2021"
+author = "Adesoji Alu"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+onnxruntime = "0.0.14" # Check for the latest version
+tokenizers = "0.19.1"  # For tokenization (if needed)
+ndarray = "0.15.1"
+session = "0.1.8"
+openssl = "0.10.64"
+# Check ifthere are updated versions of these that use a compatible version of openssl
+cookie = "0.18.1"

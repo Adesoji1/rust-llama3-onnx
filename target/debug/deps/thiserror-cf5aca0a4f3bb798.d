@@ -1,0 +1,9 @@
+/home/adesoji/llama3_inference/target/debug/deps/libthiserror-cf5aca0a4f3bb798.rmeta: /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs
+
+/home/adesoji/llama3_inference/target/debug/deps/libthiserror-cf5aca0a4f3bb798.rlib: /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs
+
+/home/adesoji/llama3_inference/target/debug/deps/thiserror-cf5aca0a4f3bb798.d: /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs
+
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs:
+/home/adesoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs:
