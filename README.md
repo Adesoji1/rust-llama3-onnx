@@ -7,7 +7,7 @@ This project demonstrates how to convert a Llama3 model to ONNX format using Pyt
 - Python 3.x , mine is 3.11
 - Rust and Cargo
 - Pip package manager
-- Openssl Version which will help you to build your application into the `target` path
+- Openssl 
 
 ## Step 1: Convert Llama3 Model to ONNX using pytorch
 
